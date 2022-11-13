@@ -1,1 +1,1 @@
-# criando-app-deply-gcp-k8s
+# criando-app-deploy-gcp-k8s
